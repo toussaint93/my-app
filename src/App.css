@@ -28,11 +28,11 @@
   
 }
 
-.button-container {
+/*.button-container {
   display: flex;
   justify-content: space-between;
   width: 45%;
-} 
+} */
 
 .canada-button {
   cursor: pointer;
