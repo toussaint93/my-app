@@ -30,7 +30,7 @@ function App() {
     <div className="App">
       <header className="Section">
         <div className="button-container">
-          <button className="canada-button" onClick={handleCanadaClick}>
+          <button className="canada-button">
             Canada
           </button>
           <button className="thailand-button">Thailand</button>
