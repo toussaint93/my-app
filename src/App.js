@@ -39,7 +39,7 @@ function App() {
           </button>
         </div>
         <div className="container">
-          <div className="country-column">{countryInformation.name ? countryInformation.name.official : 'country'}</div>
+          <div className="country-column">country</div>
           <div className="currency-column">Currency</div>
           <div className="coat-column">Coat of Arms</div>
           <div className="flag-column">Flag</div>
